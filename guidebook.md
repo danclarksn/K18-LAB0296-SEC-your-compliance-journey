@@ -1,6 +1,6 @@
 # Guidebook Formatting Basics
 ## Goal
-Explain the purpose and objective of each section in this area.
+test the purpose and objective of each section in this area.
 Break labs into groups of related activities and steps.
 
 Examples: 
