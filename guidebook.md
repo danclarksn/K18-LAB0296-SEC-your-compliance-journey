@@ -18,7 +18,7 @@ Getting Started -- Log on to Your Training Instance
 
 2.  Log on with the provided credentials.  
 
-3.  See your homepage.\
+3.  See your homepage. You can change your Homepage to System Administration by Selecting it from the Homepage dropdown list. \
     \
     ![Homepage](./media/image2.png)
 
@@ -456,6 +456,7 @@ or processor) full visibility and transparency on current GDPR exposure.
 
     ![Different tabs](./media/image83.png)
 
-    **GRC Portal:** Illustration of a GRC portal example.
+    **GRC Portal:** Illustration of a GRC portal example. Open a new bowser page with:
+    YOur Instance URL/grc_portal
 
     ![GRC Portal](./media/image84.png)
