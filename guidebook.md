@@ -156,9 +156,9 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Policy Record](./media/image21.png)
     
-Now assign relevant Policy Statements to the Policy.
-
-19.  Generate Policy Statements that are defined for the policy by
+    Now assign relevant Policy Statements to the Policy.
+    
+    Generate Policy Statements that are defined for the policy by
     clicking **Add Statements**.
     
     ![Policy Statement](./media/image22.png)
@@ -344,7 +344,7 @@ attestations for Data Protection requirements described in the Policy for the AC
 
     ![Profile Controls](./media/image56.png)
 
-9.  Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** While taking just one attestation for a
+9.  Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** 
 
 10. Return to the Dashboard. (**Compliance Overview**). Refresh your browser.
 
