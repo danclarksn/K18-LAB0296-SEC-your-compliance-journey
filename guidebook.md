@@ -152,13 +152,13 @@ This lab explains how to create an organizational policy and policy statements t
 
 16. Paste the copied content into **Policy Text** field.
 
-17. **Save** the record. (as in step \#6).
+17. **Save** the record by right clicking in the top gray bar and clicking Save.
 
     ![Policy Record](./media/image21.png)
     
 Now assign relevant Policy Statements to the Policy.
 
-1.  Generate Policy Statements that are defined for the policy by
+19.  Generate Policy Statements that are defined for the policy by
     clicking **Add Statements**.
     
     ![Policy Statement](./media/image22.png)
