@@ -102,10 +102,17 @@ This lab explains how to create an organizational policy and policy statements t
 5.  You see a full **Policy Life Cycle Stages** listed on the top of the
     record.
 
-6.  Fill out **New Policy Record** as shown. You can click on
+6.  Fill out **New Policy Record** with input as shown below. You can click on
     ![Icon ](./media/image13.png) icon to add yourself (**System
     Administrator**) or click on the lock icon to add **Policy
     Approver**.
+    
+    Name: Data Protection Policy
+    Owner: Policy Owner
+    Type: Policy
+    Owning group: Policy Management
+    Description: Data Protection Policy
+
     
     ![New Policy Record](./media/image14.png)
     
