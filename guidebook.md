@@ -97,7 +97,7 @@ This lab explains how to create an organizational policy and policy statements t
 
 3.  Click **New** at the top of the policies page.
 
-    ![Policies page](./media/image12.png)
+    ![Policies page](./media/Policy_creation.png)
 
 5.  You see a full **Policy Life Cycle Stages** listed on the top of the
     record.
