@@ -108,10 +108,15 @@ This lab explains how to create an organizational policy and policy statements t
     Approver**.
     
     Name: Data Protection Policy
+    
     Owner: Policy Owner
+    
     Type: Policy
+    
     Owning group: Policy Management
+    
     Description: Data Protection Policy
+    
 
     
     ![New Policy Record](./media/image14.png)
