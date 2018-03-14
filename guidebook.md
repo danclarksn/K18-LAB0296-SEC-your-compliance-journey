@@ -430,6 +430,7 @@ This lab explains how to create and add new content to the Risk Dashboard to get
 
 5.  A new window opens. Click Switch to Classic UI. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and click **Save**.
 
+
 6.  Click the **Settings icon** at the end of **Type** field as shown below. Check the box for **Display data labels.** Close window.
 
     ![Display Data Labels](./media/image77.png)
