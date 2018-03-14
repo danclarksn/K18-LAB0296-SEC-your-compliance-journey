@@ -97,15 +97,27 @@ This lab explains how to create an organizational policy and policy statements t
 
 3.  Click **New** at the top of the policies page.
 
-    ![Policies page](./media/image12.png)
+    ![Policies page](./media/Policy_creation.png)
 
 5.  You see a full **Policy Life Cycle Stages** listed on the top of the
     record.
 
-6.  Fill out **New Policy Record** as shown. You can click on
+6.  Fill out **New Policy Record** with input as shown below. You can click on
     ![Icon ](./media/image13.png) icon to add yourself (**System
     Administrator**) or click on the lock icon to add **Policy
     Approver**.
+    
+    Name: Data Protection Policy
+    
+    Owner: Policy Owner
+    
+    Type: Policy
+    
+    Owning group: Policy Management
+    
+    Description: Data Protection Policy
+    
+
     
     ![New Policy Record](./media/image14.png)
     
@@ -121,7 +133,7 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Knowledge application](./media/image17.png)
     
-10. Search for **\*gdpr** in the search bar.
+10. Search for **\*gdpr** in the search bar. Press enter to continue.
 
 11. You see a Lab Data Protection Policy.
 
@@ -140,13 +152,13 @@ This lab explains how to create an organizational policy and policy statements t
 
 16. Paste the copied content into **Policy Text** field.
 
-17. **Save** the record. (as in step \#6).
+17. **Save** the record by right clicking in the top gray bar and clicking Save.
 
     ![Policy Record](./media/image21.png)
     
-Now assign relevant Policy Statements to the Policy.
-
-1.  Generate Policy Statements that are defined for the policy by
+    Now assign relevant Policy Statements to the Policy.
+    
+    Generate Policy Statements that are defined for the policy by
     clicking **Add Statements**.
     
     ![Policy Statement](./media/image22.png)
@@ -332,7 +344,7 @@ attestations for Data Protection requirements described in the Policy for the AC
 
     ![Profile Controls](./media/image56.png)
 
-9.  Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** While taking just one attestation for a
+9.  Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** 
 
 10. Return to the Dashboard. (**Compliance Overview**). Refresh your browser.
 
@@ -452,7 +464,7 @@ or processor) full visibility and transparency on current GDPR exposure.
 
     ![Dashboard](./media/image82.png)
     
-2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP.**
+2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP(v5).**
 
 3.  Check out different **tabs** on this dashboard:
 
