@@ -400,44 +400,46 @@ You can also check out the **Task SLA** information under related lists on this 
 
 ## Goal
 
-This lab explains how to create and add new content to the Risk Dashboard to get visibility on high impact risks instantly.
+This lab explains how to create and add new content to the Risk
+Dashboard to get visibility on high impact risks instantly.
 
-1.  Search for **Risks** in filter navigator.
+1. Search for **Risks** in filter navigator.
 
-2.  Click **All Risks.** Filter the Risks Records by **Profile: ACME Inc.** as shown below. All the risks related to **ACME Inc**. are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
+2. Click **All Risks.** Filter the Risks Records by **Profile: ACME Inc.** as shown below. All the risks related to **ACME Inc**. are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
 
-    ![Non-compliance](./media/image74.png)
+    ![Filtered List](./media/image75-new.png)
     
-3.  Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
+3. Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
 
-    ![Calculated Score](./media/image75.png)
-    
-4.  Right-click on **Calculated Score** field, then select **Pie Chart**.
+    ![Calculated Score](./media/image76-new.png)
 
-    ![Pie Chart](./media/image76.png)
+4. Right-click on **Calculated Score** field, then select **Pie Chart.**
 
-5.  A new window opens. Click Switch to Classic UI. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and click **Save**.
+    ![Pie Chart](./media/image77-new.png)
 
-6.  Click the **Settings icon** at the end of **Type** field as shown below. Check the box for **Display data labels.** Close window.
+5.  A new window opens. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and click **Save**.
 
-    ![Display Data Labels](./media/image77.png)
-    
+    ![Report](./media/image78-new.png)
+
+6.  On the **Style** tab check the box for **Display Data labels.**
+
+    ![Display Data Labels](./media/image80-new.png)
+
 7.  Click **Save** at the top right of the report window. See the **ACME Risks** report.
-
-    ![Acme Risks Report](./media/image78.png)
     
-8.  Select **Add to Dashboard** from the drop-down list next to **Save** button.
+    ![Click Save](./media/image82-new.png)
 
-    ![Add to Dashboard](./media/image79.png)
+8.  Select **Add to Dashboard** by clicking on the **Sharing** button on the top gray banner.
     
+    ![Sharing Button](./media/image84-new.png)
+
 9.  Add to the report to your Homepage **(Risk Overview)** as shown below.
 
-    ![Risk Overview Report](./media/image80.png)
-    
+    ![Add to Dashboard](./media/image86-new.png)
+
 10. You are automatically directed to **Risk Overview** homepage.
 
-    ![Risk Overview Homepage](./media/image81.png)
-
+    ![Risk Overview Homepage](./media/image87-new.png)
 
 # DPO Dashboard and GRC Portal
 
