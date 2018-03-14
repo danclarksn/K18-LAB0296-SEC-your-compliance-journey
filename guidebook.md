@@ -133,7 +133,7 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Knowledge application](./media/image17.png)
     
-10. Search for **\*gdpr** in the search bar.
+10. Search for **\*gdpr** in the search bar. Press enter to continue.
 
 11. You see a Lab Data Protection Policy.
 
