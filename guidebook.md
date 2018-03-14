@@ -462,7 +462,7 @@ or processor) full visibility and transparency on current GDPR exposure.
 
     ![Dashboard](./media/image82.png)
     
-2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP.**
+2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP(v5).**
 
 3.  Check out different **tabs** on this dashboard:
 
