@@ -124,7 +124,7 @@ This lab explains how to create an organizational policy and policy statements t
     
     ![New Policy Record](./media/image14.png)
     
-    **Note:** You can provide any valid dates for the purpose of this lab. For simplicity, we have skipped any additional Policy Reviewer step here.
+    **Note:** For the purpose of this lab, you can provide any valid dates. For simplicity, we have skipped any additional Policy Reviewer step here.
 
 7.  To save the record, right-click the **Policy Record bar**, open the dropdown menu, and then click **Save**.
 
@@ -136,93 +136,107 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Knowledge application](./media/image17.png)
     
-10. Search for **\*gdpr** in the search bar. Press enter to continue.
+10. In the search bar, search for **\*gdpr**. Press enter to continue.
 
-11. You see a Lab Data Protection Policy.
+    You see a Lab Data Protection Policy.
 
-12. Open the **Policy**.
+11. Open the **Policy**.
 
-13. The **Lab Data Protection policy** describes different sections required for a Data Protection policy. Pl. review the policy content.
+12. The **Lab Data Protection policy** describes the different sections required for a Data Protection policy.  
+    Review the policy content.
 
     ![Lab Protection Policy](./media/image18.png)
 
-14. Copy content of the Lab Data Protection Policy.
+13. Copy the content of the Lab Data Protection Policy.
 
-15. Return to your policy by clicking on the history
-    (![History Icon](./media/image19.png) icon. Click the **Policy** you just created. You should be now back in the Policy Record.
+14. Click on the history to return to your policy.
+    (![History Icon](./media/image19.png) icon. 
+    
+15.    Click the **Policy** you just created. You should be now back in the Policy Record.
     
     ![Policy Record](./media/image20.png)
 
 16. Paste the copied content into **Policy Text** field.
 
-17. **Save** the record by right clicking in the top gray bar and clicking Save.
+17. Right-click in the header bar and then click **Save** to save the record.
 
     ![Policy Record](./media/image21.png)
     
-    Now assign relevant Policy Statements to the Policy.
+18. Assign relevant **Policy Statements** to the Policy.
     
-    Generate Policy Statements that are defined for the policy by
-    clicking **Add Statements**.
+19. Click **Add Statements** to generate Policy Statements that are defined for the policy.
     
     ![Policy Statement](./media/image22.png)
 
-18. Scroll to related lists and click on **Policy Statements.** You see 9 policy statements added to the Policy.
+20. Scroll to Related Lists and click **Policy Statements**.  
+    You see nine policy statements added to the Policy.
 
     ![Policy Statements List](./media/image23.png)
     
-1. Click on any of the Reference number (e.g. 00357). A Policy Statement window opens with underlying reference number. Go to **citations** tab under Related Lists and check that at least one EU GDPR Regulation citation is aligned with that policy statement.
+21. Click any Reference number; for example 00357.  
+    A Policy Statement window opens with underlying reference number. 
+    
+22. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
 
     ![Policy Statement](./media/image24.png)
 
-20. Come back to your policy.
+23. Navigate back to your policy.
 
-21. Move forward into Policy Life Cycle. Go to next stage and click **Ready for Review**.
+24. Move forward into Policy Life Cycle. 
 
-    ![Ready for Review](./media/image28.png)
+25. Go to the next stage and click **Ready for Review**.
 
-The policy moves to next stage **Review** in the Life Cycle Flow. A reviewer can now review the Policy. For this lab go directly to next
-step: **Approval**.
+    ![Ready for Review](./media/image28.png)  
 
-1.  Click **Request Approval**. Approval request goes to **Policy Approver** & **System Administrator.** The policy form field becomes
-    now read-only as shown below in 2^nd^ example.\
+    The policy moves to the **Review** stage in the Life Cycle Flow. A reviewer can now review the Policy. 
+
+26. For this lab, go directly to the **Approval** step.
+
+27.  Click **Request Approval**.  
+     Approval request goes to **Policy Approver** & **System Administrator**.  
+     The policy form field now becomes read-only as shown below in the second example.\
     \
     ![Policy](./media/image29.png)
     
     ![Data Protection Policy](./media/image30.png)
 
-22. After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
+    After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
 
     ![Awaiting Approval](./media/image31.png)
     
-23. Scroll to related lists and click **Policy Approvals**.
+28. Scroll to Related Lists and click **Policy Approvals**.
 
     ![Related Lists for Policy Approvals](./media/image32.png)
 
-24. There are two records waiting for approvals. Double-click next to **Requested** (at the end of the word) and select **Approved** for each approver.
+    There are two records waiting for approvals.  
+    
+29. Double-click next to **Requested** at the end of the word and then select **Approved** for each approver.
 
     ![Two Records](./media/image33.png)
 
-25. Reload form. The Policy Record has moved to state **Published**.
-    Also, a Knowledge Article has been published.
+30. Reload the form. 
+    The Policy Record has moved to the **Published** state. Also, a Knowledge Article has been published.
     
     ![Published state](./media/image34.png)
 
-26. Scroll to **KB Article** and click the information
+31. Scroll to **KB Article** and click the information
     ![Information Icon](./media/image35.png) icon at the end of the line.
     
     ![KB Article](./media/image36.png)
 
-27. A Knowledge record window opens. Scroll to **View Article** under **Related links** in this record.
+    A Knowledge record window opens.  
+    
+32. Under **Related Links**, scroll to **View Articles**.
 
-28. Click **View Article**.
+33. Click **View Article**.
 
-29. See the KB-Article that has been created automatically with related requirements listed at the bottom of the article.
+    The KB Article has automatically been created with related requirements listed at the bottom of the article.
 
     ![Data Protection Policy](./media/image37.png)
 
-You have just created a Policy, aligned with regulation requirements. You have completed a full Policy Life Cycle.
+You have just created a Policy aligned with regulation requirements. You have completed a full Policy Life Cycle.
 
-# Profile Type, Profile and Risks
+# Profile Type, Profile, and Risks
 
 ## Goal
 
