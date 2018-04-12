@@ -240,29 +240,32 @@ You have just created a Policy aligned with regulation requirements. You have co
 
 ## Goal
 
-This lab explains how to create Profile Type and assign Risk Framework to assess compliance requirements for a Profile. A profile -- *An entity we need to check for compliance requirements ---* will have then associated policy and policy statements you just created. You add risks to the Profile Type and see what could be potential impact of noncompliance to a Profile.
+This lab explains how to create a Profile Type and assign a Risk Framework to assess compliance requirements for a profile. A profile -- *An entity we need to check for compliance requirements ---* will then have the associated policy and policy statements you just created. You add risks to the Profile Type and see what could be the potential impact of noncompliance to a profile.
 
-## Profile Type, Profile & Risk Framework
+## Profile Type, Profile, and Risk Framework
 
-1.  Return to the Policy Record by clicking on history icon. (as in Lab 2.0)
+1.  Click on the history icon to return to the Policy Record. (as in Lab 2.0)
 
-1.  Scroll to related lists and click **Profile Type** in the Policy record.
+1.  Scroll to Related Lists and the, in the Policy record, click **Profile Type**.
 
-2.  Click **Edit** under **Profile Type**.
+2.  Under **Profile Type**, click **Edit**.  
 
     ![Profile Type](./media/image38.png)
 
-3.  Click **Organizations**, move it into right window, and click **Save.**
+3.  Click **Organizations**, move it into the right window, and then click **Save**.  
 
-4.  You return to the Policy record. Scroll down and click on **Organizations** under **Profile Type** related list.
+    You return to the Policy record. 
 
-5.  **Profile Type** record opens in a new window. A **Profile**, **ACME Inc**., is assigned to this Profile Type.
+4.  Scroll down to the **Profile Type** related list and click **Organizations**.
 
-    ![Profile](./media/image39.png)
+    The **Profile Type** record opens in a new window. A **Profile**, **ACME Inc**., is assigned to this Profile Type.  
 
-6.  **Policies** & **Policy Statements** appear in the related list, created in earlier steps.
+    ![Profile](./media/image39.png)  
 
-6.  Return to the Dashboard and check **Compliance Overview**. The **GDPR Compliance** gauge is created and in empty status.
+    **Policies** and **Policy Statements** appear in the related list, created in earlier steps.
+
+6.  Return to the Dashboard and check **Compliance Overview**. 
+  The **GDPR Compliance** gauge is created in an empty status.
 
     ![GDPR Compliance](./media/image40.png)
     
