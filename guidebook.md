@@ -2,12 +2,13 @@
 
 ## Goal
 
-The goal of this lab is to understand GDPR (General Data Protection
-Regulation) requirements, its impact on your organization, and how
+The goal of this lab is to understand General Data Protection
+Regulation (GDPR) requirements, its impact on your organization, and how
 ServiceNow can help your compliance journey to GDPR. ServiceNow
 Governance, Risk, and Compliance (GRC) helps bring order to an
 enterprise's compliance requirements to GDPR. It provides best practices
-to meet the GDPR requirements. This lab explains key ServiceNow
+to meet the GDPR requirements.  
+This lab explains key ServiceNow
 application to support GDPR and names the key citations (regulatory
 requirements) for GDPR.
 
@@ -18,7 +19,7 @@ Getting Started -- Log on to Your Training Instance
 
 2.  Log on with the provided credentials.  
 
-3.  See your homepage. You can change your Homepage to System Administration by selecting it from the Homepage dropdown list. \
+3.  See your homepage. You can change your homepage to system dministration by selecting it from the homepage dropdown list. \
     \
     ![Homepage](./media/image2.png)
 
@@ -27,7 +28,7 @@ Getting Started -- Log on to Your Training Instance
 
     ![Navigator](./media/image4.png)
 
-5.  Discover GRC applications and its modules by typing first few
+5.  Discover GRC applications and its modules by typing the first few
     letters of **Policy & Compliance**; **Risk Management** **& Audit
     Management**.\
     \
@@ -40,13 +41,14 @@ Check Your Homepage
 
     ![Logo](./media/image6.png)
 
-2.  In the homepage window, search for compliance from the drop-down list.
+2.  In the homepage window, search for compliance from the dropdown list.
 
     ![Complicance](./media/image7.png)
 
 3.  Select **Compliance Overview**.
 
-4.  See initial Compliance status. You should see **GDPR Compliance**
+4.  See initial Compliance status.  
+    You should see the **GDPR Compliance**
     report as empty for now. The related **gauges/reports** are updated
     as you progress with the lab.
 
@@ -59,27 +61,28 @@ different citations for regulatory requirements.
 
 ## GDPR Authority Document
 
-1.  Type **authority** in **Filter Navigator** to search Authority > Documents.
+1.  In the **Filter Navigator**, enter **authority** to search Authority > Documents.
 
-2.  Click **Authority Documents.**
+2.  Click **Authority Documents**.
 
-3.  Search **\*EU** under **Authority Documents** in the **Common Name** field.
+3.  Under **Authority Documents** in the **Common Name** field, search for **\*EU**.
 
 ![EU](./media/image8.png)
 
-**Note:** See example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double clicking on the empty field.
+**Note:** See the example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double-clicking on the empty field.
     
 ![List](./media/image10.png)
 
-4.  Click the **EU General Data Protection link (begins with AD00)**. (You might have different authority document number.)
+4.  Click the **EU General Data Protection link (begins with AD00)**.  
+    You might have different authority document number.
 
-5.  See overall **GDPR** information.
+5.  See the overall **GDPR** information.
 
-6.  Scroll to **related lists** and click on the **Citations**.
+6.  Scroll to **Related Lists** and click **Citations**.
 
-7.  Search for **Art. 35** in **Reference** field.
+7.  In the **Reference** field, search for **Art. 35**.
 
-8.  See relevant article, information and respective subsections.
+8.  See the relevant article, information, and respective subsections.
 
     ![Article](./media/image11.png)
 
@@ -87,47 +90,47 @@ different citations for regulatory requirements.
 
 ## Goal
 
-This lab explains how to create an organizational policy and policy statements that matches requirements and describes outlines for GDPR.
+This lab explains how to create an organizational policy and policy statements that matches requirements and describes the outlines for GDPR.
 
 ## Policy Creation
 
-1.  Go to **Policy & Management** application.
+1.  Navigate to the **Policy & Management** application.
 
-2.  Look for **Policies**. Click **Policies** to list them.
+2.  Search for **Policies**, and then click **Policies** to list them.
 
-3.  Click **New** at the top of the policies page.
+3.  At the top of the policies page, click **New**.
 
     ![Policies page](./media/Policy_creation.png)
 
-5.  You see a full **Policy Life Cycle Stages** listed on the top of the
-    record.
+5.  On the top of the
+    record, a full **Policy Life Cycle Stages** list appears.
 
-6.  Fill out **New Policy Record** with input as shown below. You can click on
+6.  Fill out **New Policy Record** with input as shown below.  
+    You can click the
     ![Icon ](./media/image13.png) icon to add yourself (**System
-    Administrator**) or click on the lock icon to add **Policy
+    Administrator**) or click the lock icon to add **Policy
     Approver**.
     
-    Name: Data Protection Policy
+    * Name: Data Protection Policy
     
-    Owner: Policy Owner
+    * Owner: Policy Owner
     
-    Type: Policy
+    * Type: Policy
     
-    Owning group: Policy Management
+    * Owning group: Policy Management
     
-    Description: Data Protection Policy
+    * Description: Data Protection Policy
     
-
     
     ![New Policy Record](./media/image14.png)
     
-    **Note:** You can provide any valid dates for this lab purpose. We have skipped any additional Policy Reviewer step here for  simplicity.
+    **Note:** You can provide any valid dates for the purpose of this lab. For simplicity, we have skipped any additional Policy Reviewer step here.
 
-7.  To save the record, right-click on the **Policy Record bar**, open the drop-down menu, and click **Save**.
+7.  To save the record, right-click the **Policy Record bar**, open the dropdown menu, and then click **Save**.
 
     ![Right Click](./media/image16.png)
     
-8.  Type **Knowledge** in Filter Navigator.
+8.  In the Filter Navigator, enter **Knowledge**.
 
 9.  Click **Knowledge** application.
 
