@@ -171,10 +171,10 @@ This lab explains how to create an organizational policy and policy statements t
     
     b. Click any Reference number; for example 00357.  
        A Policy Statement window opens with underlying reference number. 
+       
+       ![Policy Statement](./media/image24.png)
     
-    c. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
-
-      ![Policy Statement](./media/image24.png)
+    c. Under related lists, click the **Citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.  
 
 23. Navigate back to your policy.
 
@@ -184,38 +184,38 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Ready for Review](./media/image28.png)  
 
-    The policy moves to the **Review** stage in the Life Cycle Flow. A reviewer can now review the Policy. 
+    The policy moves to the **Review** stage in the Life Cycle Flow. A reviewer can now review the policy. 
 
 26. For this lab, go directly to the **Approval** step.
 
 27.  Click **Request Approval**.  
-     Approval request goes to **Policy Approver** & **System Administrator**.  
+     The approval request goes to **Policy Approver** & **System Administrator**.  
      The policy form field now becomes read-only as shown below in the second example.\
     \
     ![Policy](./media/image29.png)
     
-    ![Data Protection Policy](./media/image30.png)
+   ![Data Protection Policy](./media/image30.png)
 
-    After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
+   After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
 
-    ![Awaiting Approval](./media/image31.png)
+   ![Awaiting Approval](./media/image31.png)
     
-28. Scroll to Related Lists and click **Policy Approvals**.
+28. Scroll to related lists and click **Policy approvals**.
 
     ![Related Lists for Policy Approvals](./media/image32.png)
 
-    There are two records waiting for approvals.  
+    There are two records waiting for approval.  
     
 29. Double-click next to **Requested** at the end of the word and then select **Approved** for each approver.
 
     ![Two Records](./media/image33.png)
 
-30. Reload the form. 
+30. Reload the form.  
     The Policy Record has moved to the **Published** state. Also, a Knowledge Article has been published.
     
     ![Published state](./media/image34.png)
 
-31. Scroll to **KB Article** and click the information
+31. Scroll to **KB article** and click the information
     ![Information Icon](./media/image35.png) icon at the end of the line.
     
     ![KB Article](./media/image36.png)
@@ -230,7 +230,7 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Data Protection Policy](./media/image37.png)
 
-You have just created a Policy aligned with regulation requirements. You have completed a full Policy Life Cycle.
+You have just created a policy aligned with regulation requirements. You have completed a full Policy Life Cycle.
 
 # Profile Types, Profiles, and Risks
 
@@ -242,17 +242,16 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
 1.  Click the history icon to return to the Policy Record. (as in Lab 2.0)
 
-1.  Scroll to Related Lists and then, in the Policy record, click **Profile Types**.
+2.  Scroll to related lists and then, in the Policy record, click **Profile Types**.
 
-2.  Under **Profile Types**, click **Edit**.  
+3.  Under **Profile Types**, click **Edit**.  
 
+4.  In the left-hand selection list, click **Organizations**, move it into the right-hand selection list, and then click **Save**.  
     ![Profile Type](./media/image38.png)
-
-3.  In the left-hand selection list, click **Organizations**, move it into the right-hand selection list, and then click **Save**.  
 
     You return to the policy record. 
 
-4.  Scroll down to the **Profile Types** related list and click **Organizations**.
+5.  Scroll down to the **Profile Types** related list and click **Organizations**.
 
     The **Profile Type** record opens in a new window. A profile, **ACME Inc**., is assigned to this Profile Type.  
 
@@ -260,7 +259,7 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
     The **Policies** and **Policy Statements** created in earlier steps appear in the related list.
 
-6.  Return to the Dashboard and check **Compliance Overview**.   
+6.  Return to the Dashboard and check the **Compliance Overview**.   
     The **GDPR Compliance** gauge is created with an empty status.
 
     ![GDPR Compliance](./media/image40.png)
@@ -274,13 +273,12 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     
 9.  Reload the form.  
     The **Risk Statements** are also automatically added to that **Profile Type**.  
-
-    ![Risk Framework on Profile Type](./media/image42.png)
     
 10.  Click **Risk Statements** to see the assigned **Risk Statements**.   
-     You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. YWe will revisit this **Risk Statement** later.
+     You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. We will revisit this **Risk Statement** later.
+        ![Risk Framework on Profile Type](./media/image42.png)
 
-11. Under Related Lists, return to **Profiles**, and then click the profile **ACME Inc**.
+11. Under related lists, return to **Profiles**, and then click the profile **ACME Inc**.
 
     ![Profile](./media/image43.png)
 
@@ -288,10 +286,10 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
 12. Click the **Controls** tab next to **Profile Types**.   
     There are nine controls allocated to this **Profile** as requirements described in the policy.
+    
+    To see the assigned Risks, click **Risks**.
 
     ![Controls](./media/image44.png)    
-
-13. To see the assigned Risks, click **Risks**.
 
 14. Click the **Non-compliance with Law/ Regulations** risk.   
     You are now in the **Risk** record.
@@ -311,13 +309,13 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     
  17. Change the **Scoring** record for **Inherent and Residual impact & Likelihood** as follows:
 
-    ![Scoring](./media/image47.png)
+   ![Scoring](./media/image47.png)
 
 18. **Save** the record, and then **Reload** the risk record form to see the new values.
 
 19. Add controls to associate GDPR requirements to the risk.
 
-    a. Scroll down to related lists, click **Controls**, and then click **Add**.  
+    a. Scroll down to related lists, click **Controls**, and then click **Add**.   
 
        A new window opens allowin you to select controls to associate with the risk.
 
@@ -405,7 +403,7 @@ attestations for Data Protection requirements described in the Policy for the AC
     
     b. Select **Profile ACME Inc**.
 
-    c. Under the Risk tab in related lists, select the **Non-Compliance with Laws/Regulations** risk.
+    c. Under the Risks tab in related lists, select the **Non-Compliance with Laws/Regulations** risk.
 
     d. In the **Non-Compliance with Laws/Regulations** risk window, select **Scoring**.  
 
@@ -418,7 +416,7 @@ attestations for Data Protection requirements described in the Policy for the AC
     
     ![GDPR Compliance](./media/image67.png)
 
-17. Go back to your risk - Non-compliance with Laws/Regulations; find it using the history icon.
+17. Go back to your risk - Non-compliance with Laws/Regulations; find it using the Your history icon.
 
     ![Risk](./media/image68.png)
 
@@ -478,7 +476,7 @@ Dashboard to get visibility on high impact risks instantly.
 
     ![Report](./media/image78-new.png)
 
-7.  On the **Style** tab, check the box **Display Data labels**.
+7.  On the **Style** tab, check the box **Display data labels**.
 
     ![Display Data Labels](./media/image80-new.png)
 
