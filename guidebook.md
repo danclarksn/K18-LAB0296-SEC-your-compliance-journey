@@ -63,28 +63,26 @@ different citations for regulatory requirements.
 
 ## GDPR Authority Document
 
-1.  In the **Filter Navigator**, enter **authority** to search Authority > Documents.
+1.  In the **Filter Navigator**, enter **authority**, and then click **Authority Documents**.
 
-2.  Click **Authority Documents**.
+3.  Under **Authority Documents**, in the **Common Name** field, search for **\*EU**.
 
-3.  Under **Authority Documents** in the **Common Name** field, search for **\*EU**.
+    ![EU](./media/image8.png)  
 
-![EU](./media/image8.png)
-
-**Note:** See the example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double-clicking on the empty field.
+    **Note:** Refer to the example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double-clicking on the empty field.
     
-![List](./media/image10.png)
+    ![List](./media/image10.png)
 
 4.  Click the **EU General Data Protection link (begins with AD00)**.  
     You might have different authority document number.
 
-5.  See the overall **GDPR** information.
+5.  Review the overall **GDPR** information.
 
 6.  Scroll to **Related Lists** and click **Citations**.
 
 7.  In the **Reference** field, search for **Art. 35**.
 
-8.  See the relevant article, information, and respective subsections.
+8.  Review the relevant article, information, and respective subsections.
 
     ![Article](./media/image11.png)
 
