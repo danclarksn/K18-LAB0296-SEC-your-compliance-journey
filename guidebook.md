@@ -30,11 +30,12 @@ Getting Started -- Log on to Your Training Instance
     ![Navigator](./media/image4.png)
 
 5.  Discover the GRC applications and its modules by typing the first few
-    letters of **Policy & Compliance**; **Risk Management** **& Audit
+    letters of **Policy & Compliance**, **Risk Management**, or **Audit
     Management**.\
     \
     ![Navigators](./media/image5.png)  
-
+  
+  
 Check Your Homepage
 ===================
 
