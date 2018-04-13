@@ -100,12 +100,11 @@ This lab explains how to create an organizational policy and policy statements t
 
 3.  At the top of the policies page, click **New**.
 
-    ![Policies page](./media/Policy_creation.png)
+    ![Policies page](./media/Policy_creation.png)  
 
-5.  On the top of the
-    record, a full **Policy Life Cycle Stages** list appears.
+    On the top of the record, a full **Policy Life Cycle Stages** list appears.
 
-6.  Fill out **New Policy Record** with input as shown below.  
+6.  Fill out the new policy record with the following information.  
     You can click the
     ![Icon ](./media/image13.png) icon to add yourself (**System
     Administrator**) or click the lock icon to add **Policy
@@ -124,7 +123,7 @@ This lab explains how to create an organizational policy and policy statements t
     
     ![New Policy Record](./media/image14.png)
     
-    **Note:** For the purpose of this lab, you can provide any valid dates. For simplicity, we have skipped any additional Policy Reviewer step here.
+    **Note:** For the purpose of this lab, you can provide any valid dates. For simplicity, we have skipped any additional policy reviewer step here.
 
 7.  To save the record, right-click the **Policy Record bar**, open the dropdown menu, and then click **Save**.
 
