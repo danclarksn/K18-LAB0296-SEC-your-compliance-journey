@@ -431,19 +431,19 @@ attestations for Data Protection requirements described in the Policy for the AC
 
     ![Monitoring](./media/image69.png)
 
-20. Scroll down and locate one of noncompliant control (if you have any) by clicking on the **Controls** tab in related list. 
+20. Scroll down and locate one of the noncompliant controls (if you have any) by clicking the **Controls** tab in the related list. 
 
 21. Click the **Name** of a noncompliant control.
 
     ![Name controls](./media/image70.png)
 
 24. In the related list, click the **Issues** tab.  
-    An issue has been automatically generated as result of this noncompliant control. 
+    An issue is automatically generated as a result of this noncompliant control. 
     
 25. Open the issue record.  
-    The record is in **New** state in the Life Cycle (next example).
+    The record is in the **New** state in the Life Cycle (next example).  
 
-25. Under Details tab, the reason appears in the **Description** box. Now, an assignee can start working on resolving the issue (not part of this lab).
+    Under the **Details** tab, the reason appears in the **Description** box. Now, an assignee can start working on resolving the issue (not part of this lab).  
     
     ![Description Box](./media/image71.png)
     
@@ -458,62 +458,68 @@ You can also check out the **Task SLA** information under related lists on this 
 This lab explains how to create and add new content to the Risk
 Dashboard to get visibility on high impact risks instantly.
 
-1. Search for **Risks** in filter navigator.
+1. In te Filter Navigator, search for **Risks**.
 
-2. Click **All Risks.** Filter the Risks Records by **Profile: ACME Inc.** as shown below. All the risks related to **ACME Inc**. are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
+2. Click **All Risks**. 
+
+3. Filter the Risks records by **Profile: ACME Inc.** as shown below.  
+   All the risks related to **ACME Inc** are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
 
     ![Filtered List](./media/image75-new.png)
     
-3. Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
+4. Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
 
     ![Calculated Score](./media/image76-new.png)
 
-4. Right-click on **Calculated Score** field, then select **Pie Chart.**
+5. Right-click the **Calculated Score** field and then select **Pie Chart**.
 
-    ![Pie Chart](./media/image77-new.png)
+    ![Pie Chart](./media/image77-new.png)  
 
-5.  A new window opens. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and click **Save**.
+   A new window opens. 
+
+6. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and then click **Save**.
 
     ![Report](./media/image78-new.png)
 
-6.  On the **Style** tab check the box for **Display Data labels.**
+7.  On the **Style** tab, check the box **Display Data labels**.
 
     ![Display Data Labels](./media/image80-new.png)
 
-7.  Click **Save** at the top right of the report window. See the **ACME Risks** report.
+8.  At the top-right of the report window, click **Save** and review the **ACME Risks** report.
     
     ![Click Save](./media/image82-new.png)
 
-8.  Select **Add to Dashboard** by clicking on the **Sharing** button on the top gray banner.
+9.  Select **Add to Dashboard** by clicking on the **Sharing** button on the top gray banner.
     
     ![Sharing Button](./media/image84-new.png)
 
-9.  Add to the report to your Homepage **(Risk Overview)** as shown below.
+10. Add to the report on your Homepage **(Risk Overview)** as shown below.
 
     ![Add to Dashboard](./media/image86-new.png)
 
-10. You are automatically directed to **Risk Overview** homepage.
+    You are automatically directed to the **Risk Overview** homepage.
 
-    ![Risk Overview Homepage](./media/image87-new.png)
+    ![Risk Overview Homepage](./media/image87-new.png)  
 
 # DPO Dashboard and GRC Portal
 
 ## Goal
 
-This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of overall GDPR Lab. The DPO dashboard gives you as a DPO (or controller
-or processor) full visibility and transparency on current GDPR exposure.
+This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of the overall GDPR Lab. The DPO dashboard gives you as a DPO (or controller or processor) full visibility and transparency on current GDPR exposure.
 
-1.  Search for **Dashboard** in filter navigator.
+1.  In the Filter Navigator, search for **Dashboard**.
 
     ![Dashboard](./media/image82.png)
     
-2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP(v5).**
+2.  In the **Dashboard** dropdown menu, search for **DPO** and then select **DPO Dashboard MP(v5)**.
 
-3.  Check out different **tabs** on this dashboard:
+3.  Review the different **tabs** on this dashboard:
 
     ![Different tabs](./media/image83.png)
 
-    **GRC Portal:** Illustration of a GRC portal example. Open a new bowser window with:
+    **GRC Portal:** Illustration of a GRC portal example. 
+    
+4.  Open a new bowser window with:  
     Your Instance URL/grc_portal
 
     ![GRC Portal](./media/image84.png)
