@@ -19,11 +19,12 @@ Getting Started -- Log on to Your Training Instance
 
 2.  Log on with the provided credentials.  
 
-3.  Review your homepage. You can change your homepage to System Administration by selecting it from the homepage dropdown list in the top-left of the page. \
+3.  Review your homepage.  
+    You can change your homepage to System Administration by selecting it from the dropdown list in the top-left of the page. \
     \
     ![Homepage](./media/image2.png)
 
-4.  Review your favorite applications by clicking on the **star**
+4.  Review your favorite applications by clicking the **star**
     ![Star](./media/image3.png) next to the application.
 
     ![Navigator](./media/image4.png)
