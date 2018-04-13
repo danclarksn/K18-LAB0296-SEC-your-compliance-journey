@@ -164,17 +164,17 @@ This lab explains how to create an organizational policy and policy statements t
     
     ![Policy Statement](./media/image22.png)
 
-20. Scroll to Related Lists and click **Policy Statements**.  
-    You should see nine policy statements added to the policy.
+    i. Scroll to Related Lists and click **Policy Statements**.  
+       You should see nine policy statements added to the policy.
 
-    ![Policy Statements List](./media/image23.png)
+       ![Policy Statements List](./media/image23.png)
     
-21. Click any Reference number; for example 00357.  
-    A Policy Statement window opens with underlying reference number. 
+    i. Click any Reference number; for example 00357.  
+       A Policy Statement window opens with underlying reference number. 
     
-22. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
+    i. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
 
-    ![Policy Statement](./media/image24.png)
+      ![Policy Statement](./media/image24.png)
 
 23. Navigate back to your policy.
 
