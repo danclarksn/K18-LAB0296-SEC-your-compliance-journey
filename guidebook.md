@@ -30,7 +30,7 @@ Getting Started -- Log on to Your Training Instance
     ![Navigator](./media/image4.png)
 
 5.  Discover the GRC applications and its modules by typing the first few
-    letters of **Policy & Compliance**, **Risk Management**, or **Audit
+    letters of **Policy and Compliance**, **Risk Management**, or **Audit
     Management**.\
     \
     ![Navigators](./media/image5.png)  
@@ -49,7 +49,7 @@ Check Your Homepage
 
 3.  Select **Compliance Overview**.
 
-4.  See initial Compliance status.  
+4.  Review the initial Compliance status.  
     You should see the **GDPR Compliance**
     report as empty for now. The related **gauges/reports** are updated
     as you progress with the lab.
