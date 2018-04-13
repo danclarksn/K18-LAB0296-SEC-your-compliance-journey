@@ -19,20 +19,20 @@ Getting Started -- Log on to Your Training Instance
 
 2.  Log on with the provided credentials.  
 
-3.  See your homepage. You can change your homepage to system dministration by selecting it from the homepage dropdown list. \
+3.  Review your homepage. You can change your homepage to System Administration by selecting it from the homepage dropdown list in the top-left of the page. \
     \
     ![Homepage](./media/image2.png)
 
-4.  See your favorite applications by clicking on the **star**
+4.  Review your favorite applications by clicking on the **star**
     ![Star](./media/image3.png) next to the application.
 
     ![Navigator](./media/image4.png)
 
-5.  Discover GRC applications and its modules by typing the first few
+5.  Discover the GRC applications and its modules by typing the first few
     letters of **Policy & Compliance**; **Risk Management** **& Audit
     Management**.\
     \
-    ![Navigators](./media/image5.png)
+    ![Navigators](./media/image5.png)  
 
 Check Your Homepage
 ===================
@@ -41,7 +41,7 @@ Check Your Homepage
 
     ![Logo](./media/image6.png)
 
-2.  In the homepage window, search for compliance from the dropdown list.
+2.  In the homepage window, from the dropdown list, search for compliance.
 
     ![Complicance](./media/image7.png)
 
