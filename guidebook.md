@@ -129,9 +129,7 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Right Click](./media/image16.png)
     
-8.  In the Filter Navigator, enter **Knowledge**.
-
-9.  Click the **Knowledge** application.
+8.  In the Filter Navigator, enter **Knowledge**, and then click the **Knowledge** application.
 
     ![Knowledge application](./media/image17.png)
     
@@ -139,10 +137,10 @@ This lab explains how to create an organizational policy and policy statements t
 
     The Lab Data Protection Policy appears.
 
-11. Open the **Policy**.
-
-12. The **Lab Data Protection policy** describes the different sections required for a Data Protection policy.  
-    Review the policy content.
+11. Open the **Policy**.  
+    The **Lab Data Protection Policy** describes the different sections required for a Data Protection policy.   
+    
+12.    Review the policy content.
 
     ![Lab Protection Policy](./media/image18.png)
 
@@ -151,7 +149,8 @@ This lab explains how to create an organizational policy and policy statements t
 14. Click on the history to return to your policy.
     (![History Icon](./media/image19.png) icon. 
     
-15.    Click the **Policy** you just created. You should be now back in the Policy Record.
+15. Click the **Policy** you just created.  
+    You should be now back in the Policy Record.
     
     ![Policy Record](./media/image20.png)
 
