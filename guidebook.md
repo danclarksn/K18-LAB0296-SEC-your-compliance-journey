@@ -164,15 +164,15 @@ This lab explains how to create an organizational policy and policy statements t
     
     ![Policy Statement](./media/image22.png)
 
-    i. Scroll to Related Lists and click **Policy Statements**.  
+    a. Scroll to Related Lists and click **Policy Statements**.  
        You should see nine policy statements added to the policy.
 
        ![Policy Statements List](./media/image23.png)
     
-    i. Click any Reference number; for example 00357.  
+    b. Click any Reference number; for example 00357.  
        A Policy Statement window opens with underlying reference number. 
     
-    i. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
+    c. Under Related Lists, click the **citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.
 
       ![Policy Statement](./media/image24.png)
 
@@ -279,7 +279,7 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     
 10.  Click **Risk Statements** to see assigned **Risk Statements**.  
 
-    You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. You revisit this **Risk Statement** later.
+    You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. You will revisit this **Risk Statement** later.
 
 11. Under Related Lists, return to **Profile**, and then click the profile **ACME Inc**.
 
@@ -302,8 +302,8 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     ![Not Assessed](./media/image45.png)
     
 16. Review all the fields in this risk record.  
-    i. Scroll down and click the **Scoring** tab.  
-    i. Check your inherent, residual, and calculated scores. **Note** down Calculated scores! (ALE = Annual Loss Expectancy)
+    a. Scroll down and click the **Scoring** tab.  
+    b. Check your inherent, residual, and calculated scores. **Note** down Calculated scores! (ALE = Annual Loss Expectancy)
 
     ![Non-Compliance](./media/image46.png)  
 
@@ -317,11 +317,11 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
 19. Add controls to associate GDPR requirements to the risk.
 
-    i.  Scroll down and go to related lists, click **Controls**, and then click **Add**.  
+    a.  Scroll down and go to related lists, click **Controls**, and then click **Add**.  
 
         A new window opens to choose controls to associate them with the risk.
 
-    i. Select **All controls** and then click **Add Relationship**.  
+    b. Select **All controls** and then click **Add Relationship**.  
 
        ![Add Relationship](./media/image48.png)  
     
