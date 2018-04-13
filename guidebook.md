@@ -146,16 +146,16 @@ This lab explains how to create an organizational policy and policy statements t
 
 13. Copy the content of the Lab Data Protection Policy.
 
-14. Click the history icon ![History Icon](./media/image19.png) to return to your policy.  
+14. Click the Your history icon ![History Icon](./media/image19.png) to return to your policy.  
     
     ![Policy Record](./media/image20.png)
     
 15. Click the **Policy** you just created.  
-    You should be now back in the Policy Record.
+    You should now be back in the policy record.
 
-16. Paste the copied content into **Policy Text** field.
+16. Paste the copied content into the **Policy Text** field.
 
-17. Right-click in the header bar and then click **Save** to save the record.
+17. To save the record, right-click the header bar and then click **Save**.
 
     ![Policy Record](./media/image21.png)
     
