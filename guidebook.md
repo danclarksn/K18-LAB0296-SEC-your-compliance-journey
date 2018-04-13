@@ -12,7 +12,7 @@ This lab explains key ServiceNow
 application to support GDPR and names the key citations (regulatory
 requirements) for GDPR.
 
-Getting Started -- Log on to Your Training Instance 
+Getting Started - Log on to Your Training Instance 
 ====================================================
 
 1.  Navigate to the unique instance URL provided to you.  
@@ -146,11 +146,10 @@ This lab explains how to create an organizational policy and policy statements t
 
 13. Copy the content of the Lab Data Protection Policy.
 
-14. Click the Your history icon ![History Icon](./media/image19.png) to return to your policy.  
+14. To return to your policy, click the Your history icon ![History Icon](./media/image19.png), and then click the **Policy** you just created.  
     
     ![Policy Record](./media/image20.png)
-    
-15. Click the **Policy** you just created.  
+      
     You should now be back in the policy record.
 
 16. Paste the copied content into the **Policy Text** field.
