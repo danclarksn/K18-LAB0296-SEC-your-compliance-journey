@@ -232,7 +232,7 @@ This lab explains how to create an organizational policy and policy statements t
 
 You have just created a Policy aligned with regulation requirements. You have completed a full Policy Life Cycle.
 
-# Profile Type, Profile, and Risks
+# Profile Types, Profiles, and Risks
 
 ## Goal
 
@@ -242,59 +242,58 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
 1.  Click the history icon to return to the Policy Record. (as in Lab 2.0)
 
-1.  Scroll to Related Lists and then, in the Policy record, click **Profile Type**.
+1.  Scroll to Related Lists and then, in the Policy record, click **Profile Types**.
 
-2.  Under **Profile Type**, click **Edit**.  
+2.  Under **Profile Types**, click **Edit**.  
 
     ![Profile Type](./media/image38.png)
 
-3.  Click **Organizations**, move it into the right window, and then click **Save**.  
+3.  In the left-hand selection list, click **Organizations**, move it into the right-hand selection list, and then click **Save**.  
 
-    You return to the Policy record. 
+    You return to the policy record. 
 
-4.  Scroll down to the **Profile Type** related list and click **Organizations**.
+4.  Scroll down to the **Profile Types** related list and click **Organizations**.
 
-    The **Profile Type** record opens in a new window. A **Profile**, **ACME Inc**., is assigned to this Profile Type.  
+    The **Profile Type** record opens in a new window. A profile, **ACME Inc**., is assigned to this Profile Type.  
 
     ![Profile](./media/image39.png)  
 
     The **Policies** and **Policy Statements** created in earlier steps appear in the related list.
 
-6.  Return to the Dashboard and check **Compliance Overview**.  
-    The **GDPR Compliance** gauge is created in an empty status.
+6.  Return to the Dashboard and check **Compliance Overview**.   
+    The **GDPR Compliance** gauge is created with an empty status.
 
     ![GDPR Compliance](./media/image40.png)
     
-7.  Add **Risk Framework** to the **Profile Type** as shown below. 
+7.  Add a **Risk Framework** to the **Profile Types** as shown below. 
 
     ![Risk Framework](./media/image41.png)
     
-8.  Add **Corporate Risks** to Profile type and click **Save**.  
-    Corporate risks are related to the regulation requirements. The **Risk Framework** is now assigned to **Profile Type**.
+8.  Add a **Corporate Risks** to the Profile Type and then click **Save**.   
+    Corporate risks are related to the regulation requirements. The Risk Framework is now assigned to the Profile Type.
     
 9.  Reload the form.  
     The **Risk Statements** are also automatically added to that **Profile Type**.  
 
     ![Risk Framework on Profile Type](./media/image42.png)
     
-10.  Click **Risk Statements** to see assigned **Risk Statements**.  
+10.  Click **Risk Statements** to see the assigned **Risk Statements**.   
+     You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. YWe will revisit this **Risk Statement** later.
 
-    You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. You will revisit this **Risk Statement** later.
-
-11. Under Related Lists, return to **Profile**, and then click the profile **ACME Inc**.
+11. Under Related Lists, return to **Profiles**, and then click the profile **ACME Inc**.
 
     ![Profile](./media/image43.png)
 
-    The Profile window contains **Organizations** in the **Profile Type** related list.
+    The Profile window contains **Organizations** in the **Profile Types** related list.
 
-12. Click the **Controls** tab next to **Profile Type**.  
-    There are nine controls allocated to this **Profile** as requirements described in the Policy.
+12. Click the **Controls** tab next to **Profile Types**.   
+    There are nine controls allocated to this **Profile** as requirements described in the policy.
 
     ![Controls](./media/image44.png)    
 
-13. Click **Risks** to see the assigned Risks.
+13. To see the assigned Risks, click **Risks**.
 
-14. Click **Non-compliance with Law/ Regulations** risk.  
+14. Click the **Non-compliance with Law/ Regulations** risk.   
     You are now in the **Risk** record.
 
 15. Change the **Risk Life Cycle** status in the form from **none** to **Not Assessed**, and then save the record.
@@ -303,23 +302,24 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     
 16. Review all the fields in this risk record.  
     a. Scroll down and click the **Scoring** tab.  
-    b. Check your inherent, residual, and calculated scores. **Note** down Calculated scores! (ALE = Annual Loss Expectancy)
+    b. Check your inherent, residual, and calculated scores. 
+    c. Write down the Calculated scores! (ALE = Annual Loss Expectancy)
 
     ![Non-Compliance](./media/image46.png)  
 
-    Without having any controls implemented to reduce this risk, the likelihood to occur this risk and in turn the impact is high. The objective we want to achieve is to reduce the risk.  
+    Without having any controls implemented to reduce this risk, the likelihood to incur this risk, and in turn the impact, is high. The objective we want to achieve is to reduce the risk.  
     
- 17. Change the **Scoring** record for **Inherent and Residual impact & Likelihood** as following:
+ 17. Change the **Scoring** record for **Inherent and Residual impact & Likelihood** as follows:
 
     ![Scoring](./media/image47.png)
 
-18. **Save** the record, and then **Reload** the risk record form to see new values.
+18. **Save** the record, and then **Reload** the risk record form to see the new values.
 
 19. Add controls to associate GDPR requirements to the risk.
 
-    a.  Scroll down and go to related lists, click **Controls**, and then click **Add**.  
+    a. Scroll down to related lists, click **Controls**, and then click **Add**.  
 
-        A new window opens to choose controls to associate them with the risk.
+       A new window opens allowin you to select controls to associate with the risk.
 
     b. Select **All controls** and then click **Add Relationship**.  
 
@@ -327,7 +327,7 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
     
        There are nine controls associated to that risk.  
 
-    ![Risk Controls](./media/image49.png)
+       ![Risk Controls](./media/image49.png)
     
 20. After adding these controls, save the record.  
     The risk score remains the same since you have not yet executed controls.
@@ -349,7 +349,7 @@ attestations for Data Protection requirements described in the Policy for the AC
     The current state of all controls should be in **Draft**. 
 
 3.  Click **Generate DPIAs** (Data Protection Impact Assessments, requirement from §35 EU GDPR).  
-    The Controls state now changes to **Attest**.
+    The Controls now shows changes to **Attest**.
 
     ![Profile](./media/image52.png)    
 
@@ -357,24 +357,25 @@ attestations for Data Protection requirements described in the Policy for the AC
 
     ![Attestations](./media/image53.png)
 
-5.  In the Filter Navigator, search for **My Attestations** and then click it.
+5.  In the Filter Navigator, search for, and then click, **My Attestations**.
 
     ![My Attestations](./media/image54.png)
 
-6.  Expand the **Profile ACME Inc** to see the full record.  
-    You should now have nine attestations in **Ready to Take** state.
+6.  Expand the **Profile ACME Inc** profile to see the full record.   
+    You should now have nine attestations in the **Ready to Take** state.
 
-7.  Take one **attestation** and submit it. If asked to attach evidence, attach any (small size) file from your laptop. You can also provide multiple attachments for the evidence.
+7.  Take one **attestation** and submit it. If asked to attach evidence, attach any (small size) file from your laptop.  
+    You can also provide multiple attachments for the evidence.
 
     ![Evidence](./media/image55.png)
 
-8.  Go back to the **Acme Inc. Profile**, and then click **Controls**.
+8.  Go back to the **Acme Inc. Profile** and then click **Controls**.
 
     ![Profile Controls](./media/image56.png)  
 
-    Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** 
+    Depending on your response to that attestation, you should see the control status as **Compliant** or **Noncompliant.** 
 
-9. Return to the Dashboard (**Compliance Overview**), and then refresh your browser.
+9. Return to the Dashboard (**Compliance Overview**) and then refresh your browser.
 
     ![Compliance Overview](./media/image57.png)
 
@@ -383,7 +384,7 @@ attestations for Data Protection requirements described in the Policy for the AC
 11. On the **GDPR Compliance** gauge, click the green part of pie chart (or red for non-compliant).  
     There are additional citations related to that particular control in **Compliant**/**Non-compliant** status.
 
-12. Return to the attestations and take remaining attestations. <!--this is not clear to me - what does take remaing attestations mean-->
+12. Return to the attestations and take remaining attestations. <!--this is not clear to me - what does take remaining attestations mean-->
 
     ![Remaining Attestions](./media/image58.png)
     ![Attestions](./media/image59.png)
@@ -399,25 +400,25 @@ attestations for Data Protection requirements described in the Policy for the AC
 
 15. After having 2-3 noncompliant controls, check the risk status as described in following steps:
 
-    i.  Go to **History** Icon
-    (![History Icon](./media/image62.png)).  
+    a.  Go to **History** Icon
+        (![History Icon](./media/image62.png)).  
     
-    i. Select **Profile ACME Inc**.
+    b. Select **Profile ACME Inc**.
 
-    i. Under the Risk tab in related lists, select the **Non-Compliance with Laws/Regulations** risk.
+    c. Under the Risk tab in related lists, select the **Non-Compliance with Laws/Regulations** risk.
 
-    i. In the **Non-Compliance with Laws/Regulations** risk window, select **Scoring**.  
+    d. In the **Non-Compliance with Laws/Regulations** risk window, select **Scoring**.  
 
     There is a new score for the risk. Because of some noncompliant controls, **Calculated Score** is now higher. You may have a different score than shown below.
 
     ![Calculated Score](./media/image63.png)
     
-16. After finishing all attestations, go back to the dashboard to see the latest status of **GDPR Compliance**.  
+16. After finishing all attestations, go back to the Dashboard to see the latest status of **GDPR Compliance**.   
     Your dashboard might be different than what is shown below.
     
     ![GDPR Compliance](./media/image67.png)
 
-17. Go back to your risk - Non-compliance with Laws/Regulations, while finding it to the history icon.
+17. Go back to your risk - Non-compliance with Laws/Regulations; find it using the history icon.
 
     ![Risk](./media/image68.png)
 
@@ -445,7 +446,7 @@ attestations for Data Protection requirements described in the Policy for the AC
     
 You can also check out the **Task SLA** information under related lists on this form.
 
-![Task SLA](./media/image72.png)
+  ![Task SLA](./media/image72.png)
 
 # Risk Dashboard
 
@@ -473,7 +474,7 @@ Dashboard to get visibility on high impact risks instantly.
 
    A new window opens. 
 
-6. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and then click **Save**.
+6. Enter the report name in the **Report Title** (e.g., **ACME Risks**) field and then click **Save**.
 
     ![Report](./media/image78-new.png)
 
@@ -485,7 +486,7 @@ Dashboard to get visibility on high impact risks instantly.
     
     ![Click Save](./media/image82-new.png)
 
-9.  Select **Add to Dashboard** by clicking on the **Sharing** button on the top gray banner.
+9.  Select **Add to Dashboard** by clicking on the **Sharing** button on the header bar.
     
     ![Sharing Button](./media/image84-new.png)
 
