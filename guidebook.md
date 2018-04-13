@@ -63,7 +63,7 @@ different citations for regulatory requirements.
 
 ## GDPR Authority Document
 
-1.  In the **Filter Navigator**, enter **authority**, and then click **Authority Documents**.
+1.  In the Filter Navigator, enter **authority**, and then click **Authority Documents**.
 
 3.  Under **Authority Documents**, in the **Common Name** field, search for **\*EU**.
 
@@ -125,19 +125,19 @@ This lab explains how to create an organizational policy and policy statements t
     
     **Note:** For the purpose of this lab, you can provide any valid dates. For simplicity, we have skipped any additional policy reviewer step here.
 
-7.  To save the record, right-click the **Policy Record bar**, open the dropdown menu, and then click **Save**.
+7.  To save the record, right-click the policy header bar, and then from the dropdown menu click **Save**.
 
     ![Right Click](./media/image16.png)
     
 8.  In the Filter Navigator, enter **Knowledge**.
 
-9.  Click **Knowledge** application.
+9.  Click the **Knowledge** application.
 
     ![Knowledge application](./media/image17.png)
     
-10. In the search bar, search for **\*gdpr**. Press enter to continue.
+10. In the search bar, search for **\*gdpr**, and then press enter to continue.
 
-    You see a Lab Data Protection Policy.
+    The Lab Data Protection Policy appears.
 
 11. Open the **Policy**.
 
