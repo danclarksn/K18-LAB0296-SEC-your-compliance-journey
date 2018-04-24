@@ -2,37 +2,40 @@
 
 ## Goal
 
-The goal of this lab is to understand GDPR (General Data Protection
-Regulation) requirements, its impact on your organization, and how
+The goal of this lab is to understand General Data Protection
+Regulation (GDPR) requirements, its impact on your organization, and how
 ServiceNow can help your compliance journey to GDPR. ServiceNow
 Governance, Risk, and Compliance (GRC) helps bring order to an
 enterprise's compliance requirements to GDPR. It provides best practices
-to meet the GDPR requirements. This lab explains key ServiceNow
+to meet the GDPR requirements.  
+This lab explains key ServiceNow
 application to support GDPR and names the key citations (regulatory
 requirements) for GDPR.
 
-Getting Started -- Log on to Your Training Instance 
+Getting Started - Log on to Your Training Instance 
 ====================================================
 
 1.  Navigate to the unique instance URL provided to you.  
 
 2.  Log on with the provided credentials.  
 
-3.  See your homepage. You can change your Homepage to System Administration by selecting it from the Homepage dropdown list. \
+3.  Review your homepage.  
+    You can change your homepage to System Administration by selecting it from the dropdown list in the top-left of the page. \
     \
     ![Homepage](./media/image2.png)
 
-4.  See your favorite applications by clicking on the **star**
+4.  Review your favorite applications by clicking the **star**
     ![Star](./media/image3.png) next to the application.
 
     ![Navigator](./media/image4.png)
 
-5.  Discover GRC applications and its modules by typing first few
-    letters of **Policy & Compliance**; **Risk Management** **& Audit
+5.  Discover the GRC applications and its modules by typing the first few
+    letters of **Policy and Compliance**, **Risk Management**, or **Audit
     Management**.\
     \
-    ![Navigators](./media/image5.png)
-
+    ![Navigators](./media/image5.png)  
+  
+  
 Check Your Homepage
 ===================
 
@@ -40,13 +43,14 @@ Check Your Homepage
 
     ![Logo](./media/image6.png)
 
-2.  In the homepage window, search for compliance from the drop-down list.
+2.  In the homepage window, from the dropdown list, search for compliance.
 
     ![Complicance](./media/image7.png)
 
 3.  Select **Compliance Overview**.
 
-4.  See initial Compliance status. You should see **GDPR Compliance**
+4.  Review the initial Compliance status.  
+    You should see the **GDPR Compliance**
     report as empty for now. The related **gauges/reports** are updated
     as you progress with the lab.
 
@@ -59,27 +63,26 @@ different citations for regulatory requirements.
 
 ## GDPR Authority Document
 
-1.  Type **authority** in **Filter Navigator** to search Authority > Documents.
+1.  In the Filter Navigator, enter **authority**, and then click **Authority Documents**.
 
-2.  Click **Authority Documents.**
+3.  Under **Authority Documents**, in the **Common Name** field, search for **\*EU**.
 
-3.  Search **\*EU** under **Authority Documents** in the **Common Name** field.
+    ![EU](./media/image8.png)  
 
-![EU](./media/image8.png)
-
-**Note:** See example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double clicking on the empty field.
+    **Note:** Refer to the example below. If your **Type** field for **EU GDPR** Authority Document is empty, you can add the relevant type by double-clicking on the empty field.
     
-![List](./media/image10.png)
+    ![List](./media/image10.png)
 
-4.  Click the **EU General Data Protection link (begins with AD00)**. (You might have different authority document number.)
+4.  Click the **EU General Data Protection link (begins with AD00)**.  
+    You might have different authority document number.
 
-5.  See overall **GDPR** information.
+5.  Review the overall **GDPR** information.
 
-6.  Scroll to **related lists** and click on the **Citations**.
+6.  Scroll to **Related Lists** and click **Citations**.
 
-7.  Search for **Art. 35** in **Reference** field.
+7.  In the **Reference** field, search for **Art. 35**.
 
-8.  See relevant article, information and respective subsections.
+8.  Review the relevant article, information, and respective subsections.
 
     ![Article](./media/image11.png)
 
@@ -87,225 +90,245 @@ different citations for regulatory requirements.
 
 ## Goal
 
-This lab explains how to create an organizational policy and policy statements that matches requirements and describes outlines for GDPR.
+This lab explains how to create an organizational policy and policy statements that matches requirements and describes the outlines for GDPR.
 
 ## Policy Creation
 
-1.  Go to **Policy & Management** application.
+1.  Navigate to the **Policy & Management** application.
 
-2.  Look for **Policies**. Click **Policies** to list them.
+2.  Search for **Policies**, and then click **Policies** to list them.
 
-3.  Click **New** at the top of the policies page.
+3.  At the top of the policies page, click **New**.
 
-    ![Policies page](./media/Policy_creation.png)
+    ![Policies page](./media/Policy_creation.png)  
 
-5.  You see a full **Policy Life Cycle Stages** listed on the top of the
-    record.
+    On the top of the record, a full **Policy Life Cycle Stages** list appears.
 
-6.  Fill out **New Policy Record** with input as shown below. You can click on
+6.  Fill out the new policy record with the following information.  
+    You can click the
     ![Icon ](./media/image13.png) icon to add yourself (**System
-    Administrator**) or click on the lock icon to add **Policy
+    Administrator**) or click the lock icon to add **Policy
     Approver**.
     
-    Name: Data Protection Policy
+    * Name: Data Protection Policy
     
-    Owner: Policy Owner
+    * Owner: Policy Owner
     
-    Type: Policy
+    * Type: Policy
     
-    Owning group: Policy Management
+    * Owning group: Policy Management
     
-    Description: Data Protection Policy
+    * Description: Data Protection Policy
     
-
     
     ![New Policy Record](./media/image14.png)
     
-    **Note:** You can provide any valid dates for this lab purpose. We have skipped any additional Policy Reviewer step here for  simplicity.
+    **Note:** For the purpose of this lab, you can provide any valid dates. For simplicity, we have skipped any additional policy reviewer step here.
 
-7.  To save the record, right-click on the **Policy Record bar**, open the drop-down menu, and click **Save**.
+7.  To save the record, right-click the policy header bar, and then from the dropdown menu click **Save**.
 
     ![Right Click](./media/image16.png)
     
-8.  Type **Knowledge** in Filter Navigator.
-
-9.  Click **Knowledge** application.
+8.  In the Filter Navigator, enter **Knowledge**, and then click the **Knowledge** application.
 
     ![Knowledge application](./media/image17.png)
     
-10. Search for **\*gdpr** in the search bar. Press enter to continue.
+10. In the search bar, search for **\*gdpr**, and then press enter to continue.
 
-11. You see a Lab Data Protection Policy.
+    The Lab Data Protection Policy appears.
 
-12. Open the **Policy**.
-
-13. The **Lab Data Protection policy** describes different sections required for a Data Protection policy. Pl. review the policy content.
+11. Open the **Policy**.  
+    The **Lab Data Protection Policy** describes the different sections required for a Data Protection policy.   
+    
+12. Review the policy content.
 
     ![Lab Protection Policy](./media/image18.png)
 
-14. Copy content of the Lab Data Protection Policy.
+13. Copy the content of the Lab Data Protection Policy.
 
-15. Return to your policy by clicking on the history
-    (![History Icon](./media/image19.png) icon. Click the **Policy** you just created. You should be now back in the Policy Record.
+14. To return to your policy, click the Your history icon ![History Icon](./media/image19.png), and then click the **Policy** you just created.  
     
     ![Policy Record](./media/image20.png)
+      
+    You should now be back in the policy record.
 
-16. Paste the copied content into **Policy Text** field.
+16. Paste the copied content into the **Policy Text** field.
 
-17. **Save** the record by right clicking in the top gray bar and clicking Save.
+17. To save the record, right-click the header bar and then click **Save** from the dropdown menu.
 
     ![Policy Record](./media/image21.png)
     
-    Now assign relevant Policy Statements to the Policy.
+18. Assign relevant **Policy Statements** to the policy.
     
-    Generate Policy Statements that are defined for the policy by
-    clicking **Add Statements**.
+19. In the top-right of the page, click **Add Statements** to generate Policy Statements that are defined for the policy.
     
     ![Policy Statement](./media/image22.png)
 
-18. Scroll to related lists and click on **Policy Statements.** You see 9 policy statements added to the Policy.
+    a. Scroll to Related Lists and click **Policy Statements**.  
+       You should see nine policy statements added to the policy.
 
-    ![Policy Statements List](./media/image23.png)
+       ![Policy Statements List](./media/image23.png)
     
-1. Click on any of the Reference number (e.g. 00357). A Policy Statement window opens with underlying reference number. Go to **citations** tab under Related Lists and check that at least one EU GDPR Regulation citation is aligned with that policy statement.
+    b. Click any Reference number; for example 00357.  
+       A Policy Statement window opens with underlying reference number. 
+       
+       ![Policy Statement](./media/image24.png)
+    
+    c. Under related lists, click the **Citations** tab and verify that at least one EU GDPR Regulation citation is aligned with that policy statement.  
 
-    ![Policy Statement](./media/image24.png)
+23. Navigate back to your policy.
 
-20. Come back to your policy.
+24. Move forward into Policy Life Cycle. 
 
-21. Move forward into Policy Life Cycle. Go to next stage and click **Ready for Review**.
+25. Go to the next stage and click **Ready for Review**.
 
-    ![Ready for Review](./media/image28.png)
+    ![Ready for Review](./media/image28.png)  
 
-The policy moves to next stage **Review** in the Life Cycle Flow. A reviewer can now review the Policy. For this lab go directly to next
-step: **Approval**.
+    The policy moves to the **Review** stage in the Life Cycle Flow. A reviewer can now review the policy. 
 
-1.  Click **Request Approval**. Approval request goes to **Policy Approver** & **System Administrator.** The policy form field becomes
-    now read-only as shown below in 2^nd^ example.\
+26. For this lab, go directly to the **Approval** step.
+
+27.  Click **Request Approval**.  
+     The approval request goes to **Policy Approver** & **System Administrator**.  
+     The policy form field now becomes read-only as shown below in the second example.\
     \
     ![Policy](./media/image29.png)
     
-    ![Data Protection Policy](./media/image30.png)
+   ![Data Protection Policy](./media/image30.png)
 
-22. After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
+   After requesting approval, policy life cycle state changes to **Awaiting approval** as shown below.
 
-    ![Awaiting Approval](./media/image31.png)
+   ![Awaiting Approval](./media/image31.png)
     
-23. Scroll to related lists and click **Policy Approvals**.
+28. Scroll to related lists and click **Policy approvals**.
 
     ![Related Lists for Policy Approvals](./media/image32.png)
 
-24. There are two records waiting for approvals. Double-click next to **Requested** (at the end of the word) and select **Approved** for each approver.
+    There are two records waiting for approval.  
+    
+29. Double-click next to **Requested** at the end of the word and then select **Approved** for each approver.
 
     ![Two Records](./media/image33.png)
 
-25. Reload form. The Policy Record has moved to state **Published**.
-    Also, a Knowledge Article has been published.
+30. Reload the form.  
+    The Policy Record has moved to the **Published** state. Also, a Knowledge Article has been published.
     
     ![Published state](./media/image34.png)
 
-26. Scroll to **KB Article** and click the information
+31. Scroll to **KB article** and click the information
     ![Information Icon](./media/image35.png) icon at the end of the line.
     
     ![KB Article](./media/image36.png)
 
-27. A Knowledge record window opens. Scroll to **View Article** under **Related links** in this record.
+    A Knowledge record window opens.  
+    
+32. Under **Related Links**, scroll to **View Articles**.
 
-28. Click **View Article**.
+33. Click **View Article**.
 
-29. See the KB-Article that has been created automatically with related requirements listed at the bottom of the article.
+    The KB Article has automatically been created with related requirements listed at the bottom of the article.
 
     ![Data Protection Policy](./media/image37.png)
 
-You have just created a Policy, aligned with regulation requirements. You have completed a full Policy Life Cycle.
+You have just created a policy aligned with regulation requirements. You have completed a full Policy Life Cycle.
 
-# Profile Type, Profile and Risks
+# Profile Types, Profiles, and Risks
 
 ## Goal
 
-This lab explains how to create Profile Type and assign Risk Framework to assess compliance requirements for a Profile. A profile -- *An entity we need to check for compliance requirements ---* will have then associated policy and policy statements you just created. You add risks to the Profile Type and see what could be potential impact of noncompliance to a Profile.
+This lab explains how to create a Profile Type and assign a Risk Framework to assess compliance requirements for a profile. A profile -- *An entity we need to check for compliance requirements ---* will then have the associated policy and policy statements you just created. You add risks to the Profile Type and see what could be the potential impact of noncompliance to a profile.
 
-## Profile Type, Profile & Risk Framework
+## Profile Type, Profile, and Risk Framework
 
-1.  Return to the Policy Record by clicking on history icon. (as in Lab 2.0)
+1.  Click the history icon to return to the Policy Record. (as in Lab 2.0)
 
-1.  Scroll to related lists and click **Profile Type** in the Policy record.
+2.  Scroll to related lists and then, in the Policy record, click **Profile Types**.
 
-2.  Click **Edit** under **Profile Type**.
+3.  Under **Profile Types**, click **Edit**.  
 
+4.  In the left-hand selection list, click **Organizations**, move it into the right-hand selection list, and then click **Save**.  
     ![Profile Type](./media/image38.png)
 
-3.  Click **Organizations**, move it into right window, and click **Save.**
+    You return to the policy record. 
 
-4.  You return to the Policy record. Scroll down and click on **Organizations** under **Profile Type** related list.
+5.  Scroll down to the **Profile Types** related list and click **Organizations**.
 
-5.  **Profile Type** record opens in a new window. A **Profile**, **ACME Inc**., is assigned to this Profile Type.
+    The **Profile Type** record opens in a new window. A profile, **ACME Inc**., is assigned to this Profile Type.  
 
-    ![Profile](./media/image39.png)
+    ![Profile](./media/image39.png)  
 
-6.  **Policies** & **Policy Statements** appear in the related list, created in earlier steps.
+    The **Policies** and **Policy Statements** created in earlier steps appear in the related list.
 
-6.  Return to the Dashboard and check **Compliance Overview**. The **GDPR Compliance** gauge is created and in empty status.
+6.  Return to the Dashboard and check the **Compliance Overview**.   
+    The **GDPR Compliance** gauge is created with an empty status.
 
     ![GDPR Compliance](./media/image40.png)
     
-7.  Now, add **Risk Framework** to the **Profile Type** as shown below. Add **Corporate Risks** to Profile type and click **Save**. Corporate risks are related to the regulation requirements.
+7.  Add a **Risk Framework** to the **Profile Types** as shown below. 
 
     ![Risk Framework](./media/image41.png)
     
-30. The **Risk Framework** is now assigned to **Profile Type.** Reload the form.  **Risk Statements** are also automatically added to that **Profile Type**.
-
-    ![Risk Framework on Profile Type](./media/image42.png)
+8.  Add a **Corporate Risks** to the Profile Type and then click **Save**.   
+    Corporate risks are related to the regulation requirements. The Risk Framework is now assigned to the Profile Type.
     
-8.  Click on **Risk Statements** to see assigned **Risk Statements**.
+9.  Reload the form.  
+    The **Risk Statements** are also automatically added to that **Profile Type**.  
+    
+10.  Click **Risk Statements** to see the assigned **Risk Statements**.   
+     You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations**. We will revisit this **Risk Statement** later.
+        ![Risk Framework on Profile Type](./media/image42.png)
 
-9.  You should have some **Risk Statements (6)**, including **Non-compliance with Law/ Regulations.** You revisit this **Risk Statement** later.
-
-10. Return to **Profile** under Related lists. Click on Profile **ACME Inc**.
+11. Under related lists, return to **Profiles**, and then click the profile **ACME Inc**.
 
     ![Profile](./media/image43.png)
 
-11. The Profile window contains **Organizations** in the **Profile
-    Type** related list.
+    The Profile window contains **Organizations** in the **Profile Types** related list.
 
-12. Click the **Controls** tab, next to **Profile Type**. There are 9 controls allocated to this **Profile** as requirements described in the Policy.
+12. Click the **Controls** tab next to **Profile Types**.   
+    There are nine controls allocated to this **Profile** as requirements described in the policy.
+    
+    To see the assigned Risks, click **Risks**.
 
     ![Controls](./media/image44.png)    
 
-13. Click **Risks** to see the assigned Risks.
+14. Click the **Non-compliance with Law/ Regulations** risk.   
+    You are now in the **Risk** record.
 
-14. Click **Non-compliance with Law/ Regulations** risk. Now you are in **Risk** Record.
-
-15. Change the Risk Life Cycle status in the form from **none** to **Not Assessed**. Save the record.
+15. Change the **Risk Life Cycle** status in the form from **none** to **Not Assessed**, and then save the record.
 
     ![Not Assessed](./media/image45.png)
     
-16. Review all the fields in this risk record. Scroll down and click on the **Scoring** tab. Check your inherent, residual and calculated scores. **Note** down Calculated scores! (ALE= Annual Loss Expectancy)
+16. Review all the fields in this risk record.  
+    a. Scroll down and click the **Scoring** tab.  
+    b. Check your inherent, residual, and calculated scores. 
+    c. Write down the Calculated scores! (ALE = Annual Loss Expectancy)
 
-    ![Non-Compliance](./media/image46.png)
+    ![Non-Compliance](./media/image46.png)  
 
-31. Without having any controls implemented to reduce this risk, the likelihood to occur this risk and in turn the impact is high. The objective we want to achieve is to reduce the risk. So, let's change the **Scoring** record for **Inherent and Residual impact & Likelihood** as following:
-
-    ![Scoring](./media/image47.png)
-
-17. **Save** the record. **Reload** the risk record form to see new values.
-
-Add controls to associate GDPR requirements to the risk.
-
-1.  Scroll down and go to related lists. Click on **Controls**. Click on
-    **Add**.
-
-1. A new window opens to choose controls to associate them with the risk.
-
-19. Select All controls and click **Add Relationship**.
-
-    ![Add Relationship](./media/image48.png)
+    Without having any controls implemented to reduce this risk, the likelihood to incur this risk, and in turn the impact, is high. The objective we want to achieve is to reduce the risk.  
     
-20. There are 9 controls associated to that risk.
+ 17. Change the **Scoring** record for **Inherent and Residual impact & Likelihood** as follows:
 
-    ![Risk Controls](./media/image49.png)
+   ![Scoring](./media/image47.png)
+
+18. **Save** the record, and then **Reload** the risk record form to see the new values.
+
+19. Add controls to associate GDPR requirements to the risk.
+
+    a. Scroll down to related lists, click **Controls**, and then click **Add**.   
+
+       A new window opens allowin you to select controls to associate with the risk.
+
+    b. Select **All controls** and then click **Add Relationship**.  
+
+       ![Add Relationship](./media/image48.png)  
     
-21. After adding these controls, save the record. The risk score remains the same since you have not yet executed controls.
+       There are nine controls associated to that risk.  
+
+       ![Risk Controls](./media/image49.png)
+    
+20. After adding these controls, save the record.  
+    The risk score remains the same since you have not yet executed controls.
 
     ![Scoring](./media/image50.png)
 
@@ -314,99 +337,114 @@ Add controls to associate GDPR requirements to the risk.
 ## Goal
 
 As you have prepared everything to test the compliance and risk states in previous labs, let start executing. This lab explains how to generate
-attestations for Data Protection requirements described in the Policy for the ACME Inc. Depending on attestations responses, controls status changes from draft to compliant or noncompliant and has an effect on risk scoring (more non-compliant controls, higher the risk!).
+attestations for Data Protection requirements described in the Policy for the ACME Inc. Depending on attestations responses, controls status changes from draft to compliant or noncompliant, and has an effect on risk scoring (the more non-compliant controls, the higher the risk!).
 
 1.  Return to your **Profile**.
 
     ![Profile](./media/image51.png)
 
-2.  Click **ACME Inc.**
+2.  Click **ACME Inc**.  
+    The current state of all controls should be in **Draft**. 
 
-3.  Current state of all controls should be in **Draft**. Click **Generate DPIAs** (Data Protection Impact Assessments, requirement from §35 EU GDPR). Controls state now changes to **Attest**.
+3.  Click **Generate DPIAs** (Data Protection Impact Assessments, requirement from §35 EU GDPR).  
+    The Controls now shows changes to **Attest**.
 
     ![Profile](./media/image52.png)    
 
-4.  There are 9 **attestations** created. (Certainly, with ServiceNow GRC application, you can also create just one attestation by different category or different attestations by different categories for different stakeholders!. )
+    There are nine **attestations** created. Certainly, with ServiceNow GRC application, you can also create just one attestation by different category or different attestations by different categories for different stakeholders!
 
     ![Attestations](./media/image53.png)
 
-5.  Search in filter navigator for **My Attestations** and click it.
+5.  In the Filter Navigator, search for, and then click, **My Attestations**.
 
     ![My Attestations](./media/image54.png)
 
-6.  Expand the **Profile ACME Inc**. to see full record. You should have now 9 attestations in **Ready to Take** state.
+6.  Expand the **Profile ACME Inc** profile to see the full record.   
+    You should now have nine attestations in the **Ready to Take** state.
 
-7.  Take one **attestation** and submit it. If asked to attach evidence, attach any (small size) file from your laptop. You can also provide multiple attachments for the evidence.
+7.  Take one **attestation** and submit it. If asked to attach evidence, attach any (small size) file from your laptop.  
+    You can also provide multiple attachments for the evidence.
 
     ![Evidence](./media/image55.png)
 
-8.  Go back to the **Acme Inc.** **Profile**. Click **Controls**.
+8.  Go back to the **Acme Inc. Profile** and then click **Controls**.
 
-    ![Profile Controls](./media/image56.png)
+    ![Profile Controls](./media/image56.png)  
 
-9.  Depending on your response to that attestation, you see control status as **Compliant** or **Noncompliant.** 
+    Depending on your response to that attestation, you should see the control status as **Compliant** or **Noncompliant.** 
 
-10. Return to the Dashboard. (**Compliance Overview**). Refresh your browser.
+9. Return to the Dashboard (**Compliance Overview**) and then refresh your browser.
 
     ![Compliance Overview](./media/image57.png)
 
-11. See the status of **GDPR Compliance**.
+10. Note the **GDPR Compliance** status.
 
-12. Click on the **green part of pie** (or red for non-compliant) of the pie chart in **GDPR Compliance** gauge. There are additional citations related to that particular control in **Compliant**/**Non-compliant** status.
+11. On the **GDPR Compliance** gauge, click the green part of pie chart (or red for non-compliant).  
+    There are additional citations related to that particular control in **Compliant**/**Non-compliant** status.
 
-13. Return to the attestations and take remaining attestations.
+12. Return to the attestations and take remaining attestations. <!--this is not clear to me - what does take remaining attestations mean-->
 
     ![Remaining Attestions](./media/image58.png)
     ![Attestions](./media/image59.png)
 
-14. Check **Controls** status time-to-time and dashboards as in previous steps (next example).
+13. Check the **Controls** status time-to-time and dashboards as in the previous steps (next example).
 
     ![Controls](./media/image60.png)
     
-15. Check the **Compliance Overview** Dashboard. Your dashboard might look different than shown below. You may need to refresh your browser window.
+14. Check the **Compliance Overview** Dashboard.  
+    Your dashboard might look different than what is shown below. You may need to refresh your browser window.
 
     ![Compliance Overview](./media/image61.png)
 
-After having 2-3 noncompliant controls, check the risk status as described in following steps:
+15. After having 2-3 noncompliant controls, check the risk status as described in following steps:
 
-1.  Go to **History** Icon
-    (![History Icon](./media/image62.png)). Select **Profile ACME Inc**.
+    a.  Go to **History** Icon
+        (![History Icon](./media/image62.png)).  
+    
+    b. Select **Profile ACME Inc**.
 
-16. Select **Non-Compliance with Laws/Regulations** risk under the Risk tab in related list.
+    c. Under the Risks tab in related lists, select the **Non-Compliance with Laws/Regulations** risk.
 
-17. In the **Non-Compliance with Laws/Regulations** Risk window, select **Scoring**.
+    d. In the **Non-Compliance with Laws/Regulations** risk window, select **Scoring**.  
 
-18. There is a new score for the risk. Because of some noncompliant controls, **Calculated Score** is now higher. You may have a different score than shown below.
+    There is a new score for the risk. Because of some noncompliant controls, **Calculated Score** is now higher. You may have a different score than shown below.
 
     ![Calculated Score](./media/image63.png)
     
-19. After finishing all attestations, go back to the dashboard to see the latest status of **GDPR Compliance**. Your dashboard might be different than shown below.
+16. After finishing all attestations, go back to the Dashboard to see the latest status of **GDPR Compliance**.   
+    Your dashboard might be different than what is shown below.
     
     ![GDPR Compliance](./media/image67.png)
 
-20. Go back to your risk - Non-compliance with Laws/Regulations, while finding it to the history icon.
+17. Go back to your risk - Non-compliance with Laws/Regulations; find it using the Your history icon.
 
     ![Risk](./media/image68.png)
 
-21. Check the final risk **scoring**.
+18. Check the final risk **scoring**.
 
-22. Click the **Monitoring** tab to see control compliance metrics.
+19. Click the **Monitoring** tab to see the control compliance metrics.
 
     ![Monitoring](./media/image69.png)
 
-23. Scroll down and go to one of noncompliant control (if you have any) by clicking on the **Controls** tab in related list. Click the **Name** of a noncompliant control.
+20. Scroll down and locate one of the noncompliant controls (if you have any) by clicking the **Controls** tab in the related list. 
+
+21. Click the **Name** of a noncompliant control.
 
     ![Name controls](./media/image70.png)
 
-24. Click the **Issues** tab in the related list. An issue has been automatically generated as result of this noncompliant control. Openthe issue record. The record is in **New** state in the Life Cycle (next example).
+24. In the related list, click the **Issues** tab.  
+    An issue is automatically generated as a result of this noncompliant control. 
+    
+25. Open the issue record.  
+    The record is in the **New** state in the Life Cycle (next example).  
 
-25. Under Details tab, the reason appears in the **Description** box. Now, an assignee can start working on resolving the issue (not part of this lab).
+    Under the **Details** tab, the reason appears in the **Description** box. Now, an assignee can start working on resolving the issue (not part of this lab).  
     
     ![Description Box](./media/image71.png)
     
 You can also check out the **Task SLA** information under related lists on this form.
 
-![Task SLA](./media/image72.png)
+  ![Task SLA](./media/image72.png)
 
 # Risk Dashboard
 
@@ -415,62 +453,68 @@ You can also check out the **Task SLA** information under related lists on this 
 This lab explains how to create and add new content to the Risk
 Dashboard to get visibility on high impact risks instantly.
 
-1. Search for **Risks** in filter navigator.
+1. In te Filter Navigator, search for **Risks**.
 
-2. Click **All Risks.** Filter the Risks Records by **Profile: ACME Inc.** as shown below. All the risks related to **ACME Inc**. are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
+2. Click **All Risks**. 
+
+3. Filter the Risks records by **Profile: ACME Inc.** as shown below.  
+   All the risks related to **ACME Inc** are listed (not in retired stage). **Non-compliance with Laws/Regulations** is also listed.
 
     ![Filtered List](./media/image75-new.png)
     
-3. Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
+4. Make the following changes to see these risks by **Calculated Score** in the Risk Dashboard.
 
     ![Calculated Score](./media/image76-new.png)
 
-4. Right-click on **Calculated Score** field, then select **Pie Chart.**
+5. Right-click the **Calculated Score** field and then select **Pie Chart**.
 
-    ![Pie Chart](./media/image77-new.png)
+    ![Pie Chart](./media/image77-new.png)  
 
-5.  A new window opens. Enter the report name in **Report Title** (e.g., **ACME Risks**) field and click **Save**.
+   A new window opens. 
+
+6. Enter the report name in the **Report Title** (e.g., **ACME Risks**) field and then click **Save**.
 
     ![Report](./media/image78-new.png)
 
-6.  On the **Style** tab check the box for **Display Data labels.**
+7.  On the **Style** tab, check the box **Display data labels**.
 
     ![Display Data Labels](./media/image80-new.png)
 
-7.  Click **Save** at the top right of the report window. See the **ACME Risks** report.
+8.  At the top-right of the report window, click **Save** and review the **ACME Risks** report.
     
     ![Click Save](./media/image82-new.png)
 
-8.  Select **Add to Dashboard** by clicking on the **Sharing** button on the top gray banner.
+9.  Select **Add to Dashboard** by clicking on the **Sharing** button on the header bar.
     
     ![Sharing Button](./media/image84-new.png)
 
-9.  Add to the report to your Homepage **(Risk Overview)** as shown below.
+10. Add to the report on your Homepage **(Risk Overview)** as shown below.
 
     ![Add to Dashboard](./media/image86-new.png)
 
-10. You are automatically directed to **Risk Overview** homepage.
+    You are automatically directed to the **Risk Overview** homepage.
 
-    ![Risk Overview Homepage](./media/image87-new.png)
+    ![Risk Overview Homepage](./media/image87-new.png)  
 
 # DPO Dashboard and GRC Portal
 
 ## Goal
 
-This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of overall GDPR Lab. The DPO dashboard gives you as a DPO (or controller
-or processor) full visibility and transparency on current GDPR exposure.
+This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of the overall GDPR Lab. The DPO dashboard gives you as a DPO (or controller or processor) full visibility and transparency on current GDPR exposure.
 
-1.  Search for **Dashboard** in filter navigator.
+1.  In the Filter Navigator, search for **Dashboard**.
 
     ![Dashboard](./media/image82.png)
     
-2.  Search for DPO in **Dashboard** drop-down menu and select **DPO Dashboard MP(v5).**
+2.  In the **Dashboard** dropdown menu, search for **DPO** and then select **DPO Dashboard MP(v5)**.
 
-3.  Check out different **tabs** on this dashboard:
+3.  Review the different **tabs** on this dashboard:
 
     ![Different tabs](./media/image83.png)
 
-    **GRC Portal:** Illustration of a GRC portal example. Open a new bowser window with:
+    **GRC Portal:** Illustration of a GRC portal example. 
+    
+4.  Open a new bowser window with:  
     Your Instance URL/grc_portal
 
     ![GRC Portal](./media/image84.png)
