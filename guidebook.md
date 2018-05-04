@@ -43,7 +43,7 @@ Check Your Homepage
 
     ![Logo](./media/image6.png)
 
-2.  In the homepage window, from the dropdown list, search for compliance.
+2.  In the homepage window (1), from the dropdown list, search for compliance.
 
     ![Complicance](./media/image7.png)
 
@@ -65,7 +65,7 @@ different citations for regulatory requirements.
 
 1.  In the Filter Navigator, enter **authority**, and then click **Authority Documents**.
 
-3.  Under **Authority Documents**, in the **Common Name** field, search for **\*EU**.
+3.  Under **Authority Documents**, in the **Common Name** field, search for **\*EU** (3).
 
     ![EU](./media/image8.png)  
 
@@ -129,16 +129,16 @@ This lab explains how to create an organizational policy and policy statements t
 
     ![Right Click](./media/image16.png)
     
-8.  In the Filter Navigator, enter **Knowledge**, and then click the **Knowledge** application.
+8.  In the Filter Navigator (1), enter **Knowledge**, and then click the **Knowledge** application (2).
 
     ![Knowledge application](./media/image17.png)
     
-10. In the search bar, search for **\*gdpr**, and then press enter to continue.
+10. In the search bar, search for **\*gdpr** (3), and then press enter to continue.
 
     The Lab Data Protection Policy appears.
 
 11. Open the **Policy**.  
-    The **Lab Data Protection Policy** describes the different sections required for a Data Protection policy.   
+    The **Lab Data Protection Policy** (4) describes the different sections required for a Data Protection policy.   
     
 12. Review the policy content.
 
@@ -146,7 +146,7 @@ This lab explains how to create an organizational policy and policy statements t
 
 13. Copy the content of the Lab Data Protection Policy.
 
-14. To return to your policy, click the Your history icon ![History Icon](./media/image19.png), and then click the **Policy** you just created.  
+14. To return to your policy, click the Your history icon ![History Icon](./media/image19.png) (1), and then click the **Policy** (2) you just created.  
     
     ![Policy Record](./media/image20.png)
       
@@ -242,11 +242,11 @@ This lab explains how to create a Profile Type and assign a Risk Framework to as
 
 1.  Click the history icon to return to the Policy Record. (as in Lab 2.0)
 
-2.  Scroll to related lists and then, in the Policy record, click **Profile Types**.
+2.  Scroll to related lists and then, in the Policy record, click **Profile Types** (1).
 
-3.  Under **Profile Types**, click **Edit**.  
+3.  Under **Profile Types**, click **Edit** (2).  
 
-4.  In the left-hand selection list, click **Organizations**, move it into the right-hand selection list, and then click **Save**.  
+4.  In the left-hand selection list, click **Organizations** (3), move it into the right-hand selection list, and then click **Save** (4).  
     ![Profile Type](./media/image38.png)
 
     You return to the policy record. 
@@ -362,12 +362,12 @@ attestations for Data Protection requirements described in the Policy for the AC
 6.  Expand the **Profile ACME Inc** profile to see the full record.   
     You should now have nine attestations in the **Ready to Take** state.
 
-7.  Take one **attestation** and submit it. If asked to attach evidence, attach any (small size) file from your laptop.  
+7.  Take one **attestation** (1,2,and 3) and submit it. If asked to attach evidence, attach any (small size) file from your laptop.  
     You can also provide multiple attachments for the evidence.
 
     ![Evidence](./media/image55.png)
 
-8.  Go back to the **Acme Inc. Profile** and then click **Controls**.
+8.  Go back to the **Acme Inc. Profile** (2) and then click **Controls** (3).
 
     ![Profile Controls](./media/image56.png)  
 
@@ -502,11 +502,11 @@ Dashboard to get visibility on high impact risks instantly.
 
 This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of the overall GDPR Lab. The DPO dashboard gives you as a DPO (or controller or processor) full visibility and transparency on current GDPR exposure.
 
-1.  In the Filter Navigator, search for **Dashboard**.
+1.  In the Filter Navigator, search for **Dashboard** (1).
 
     ![Dashboard](./media/image82.png)
     
-2.  In the **Dashboard** dropdown menu, search for **DPO** and then select **DPO Dashboard MP(v5)**.
+2.  In the **Dashboard** dropdown menu, search for **DPO** and then select **DPO Dashboard MP(v5)** (3).
 
 3.  Review the different **tabs** on this dashboard:
 
