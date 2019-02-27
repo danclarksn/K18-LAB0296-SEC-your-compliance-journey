@@ -519,3 +519,16 @@ This lab illustrates further elements -- DPO Dashboard, Portal, etc. - of the ov
     Your Instance URL/grc_portal
 
     ![GRC Portal](./media/image84.png)
+
+# Next Lab Output #
+## Goal ##
+### Part 1 ###
+
+1. Some text
+1. Some text
+1. Some text
+1. Some text
+
+An image
+
+![Here's a new image](./media/AL-logo.png)
